@@ -7,3 +7,7 @@
 - PP :
 
 ##  **Abstract of the Project**
+asjvdagsjdgawjydgaysdgyawgdjaw
+
+## Introduction
+  In modern times, industries have opted the usage of robots in order to achieve tasks with efficiency
