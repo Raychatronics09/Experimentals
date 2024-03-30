@@ -1,5 +1,5 @@
-# Forward and Inverse Kinematics of a Spherica Manipulator
-### Members:
+# Forward and Inverse Kinematics of a Spherical Manipulator
+### Group 1 Members:
 - PL :
 - PE :
 - PS :
